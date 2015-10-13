@@ -11,4 +11,8 @@ different candidates. Upon opening, the app defaults to showing Marco Rubio's
 position in the polls.
 
 B) Instructions for Using My Shiny Application: 
-1. Download 
+1. Go to Shiny Application URL: https://tenaciousterrier.shinyapps.io/2016GOP_Polling
+
+2. In the right panel below the text 'Candidates', select the box or boxes for the candidates that interest you. 
+
+3. Immediately visualize in the plot in the main panel.
