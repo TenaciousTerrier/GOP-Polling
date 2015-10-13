@@ -1,0 +1,8 @@
+name: 2016GOP_Polling
+account: tenaciousterrier
+server: shinyapps.io
+bundleId: 286488
+url: https://tenaciousterrier.shinyapps.io/2016GOP_Polling
+when: 1444695183.65409
+asMultiple: FALSE
+asStatic: FALSE
