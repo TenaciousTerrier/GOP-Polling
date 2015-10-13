@@ -1,0 +1,14 @@
+Thomas Hepner
+10/12/2015
+Coursera: Developing Data Products
+Course Project: Shiny Application and Reproducible Pitch
+
+A) What the App Does:
+The Shiny App uses data from RealClearPolitics.com to display the national polling of 
+2016 Republican presidential contenders since the beginning of 2015. The app allows
+a user to toggle the candidates names with a checkbox grouping to display lines for 
+different candidates. Upon opening, the app defaults to showing Marco Rubio's 
+position in the polls.
+
+B) Instructions for Using My Shiny Application: 
+1. Download 
